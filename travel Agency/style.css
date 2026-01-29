@@ -1,0 +1,19 @@
+html {
+    scroll-behavior: smooth;
+}
+.hero {
+    background-image: url('https://www.shutterstock.com/image-photo/travel-concept-mock-design-website-260nw-269954927.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+}
+
+.card-img-top {
+    height: 350px;
+    object-fit: cover;
+}
+
+.card {
+    height: 100%;
+}
+

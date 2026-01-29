@@ -1,0 +1,19 @@
+html {
+    scroll-behavior: smooth;
+}
+.hero {
+    background-image: url("https://img.freepik.com/photos-premium/arriere-plan-du-menu-livraison-restauration-rapide_136595-28858.jpg?semt=ais_hybrid&w=740&q=80");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+}
+
+.card {
+    height: 100%;
+}
